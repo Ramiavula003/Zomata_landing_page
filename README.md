@@ -1,4 +1,1 @@
-#This is my zomato langing page clone
-
-#Done with first commit
-Edited in git
+this is my first website clone
